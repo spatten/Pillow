@@ -30,6 +30,7 @@ As of 2019, Pillow development is
             <a href="https://travis-ci.org/python-pillow/pillow-wheels"><img
                 alt="Travis CI build status (macOS)"
                 src="https://img.shields.io/travis/python-pillow/pillow-wheels/master.svg?label=macOS%20build"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fspatten%2FPillow?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspatten%2FPillow.svg?type=shield"/></a>
             <a href="https://ci.appveyor.com/project/python-pillow/Pillow"><img
                 alt="AppVeyor CI build status (Windows)"
                 src="https://img.shields.io/appveyor/build/python-pillow/Pillow/master.svg?label=Windows%20build"></a>
@@ -102,3 +103,7 @@ The core image library is designed for fast access to data stored in a few basic
 ## Report a Vulnerability
 
 To report a security vulnerability, please follow the procedure described in the [Tidelift security policy](https://tidelift.com/docs/security).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspatten%2FPillow.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspatten%2FPillow?ref=badge_large)
